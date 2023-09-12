@@ -106,6 +106,6 @@ else:
         for better baytara😸🐶
     for better life to our pets!''')
       
- 
+print("thank you") 
               
           
